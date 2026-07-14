@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\github\\workout_food_tracker/**)",
+      "Edit(C:\\github\\workout_food_tracker/**)",
+      "Write(C:\\github\\workout_food_tracker/**)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
+    ]
+  }
+}
